@@ -11,7 +11,7 @@ Our six models produced the following results:
    * Precision Score: 		high_risk      0.01    low_risk       1.00    
    * Recall Score:              high_risk      0.71    low_risk       0.60
 	
-![IMG_1)](#)
+![image](https://user-images.githubusercontent.com/86337035/160262706-b135c565-7556-4ea9-9637-09088d573d23.png)
 
 
 -  SMOTE_Oversampling Model
@@ -19,7 +19,7 @@ Our six models produced the following results:
    * Precision Score: 		high_risk      0.01    low_risk       1.00    
    * Recall Score:              high_risk      0.63    low_risk       0.69
 
-![IMG_2)](#)
+![image](https://user-images.githubusercontent.com/86337035/160262719-d893d6e0-11ac-4222-8c1a-6bba085b115f.png)
 
 
 -  ClusterCentroids_Undersampling Model
@@ -27,7 +27,7 @@ Our six models produced the following results:
    * Precision Score: 		high_risk      0.01    low_risk       1.00    
    * Recall Score:              high_risk      0.69    low_risk       0.40
 
-![IMG_3](#)
+![image](https://user-images.githubusercontent.com/86337035/160262730-30469186-cec2-475e-85db-877f11be6e6e.png)
 
 
 -  SMOTEENN_Over/Undersampling Model
@@ -35,7 +35,7 @@ Our six models produced the following results:
    * Precision Score: 		high_risk      0.01   low_risk       1.00    
    * Recall Score:              high_risk      0.72   low_risk       0.57
 
-![IMG_4](#)
+![image](https://user-images.githubusercontent.com/86337035/160262741-303a7634-fc3b-45aa-8f11-11531e41e027.png)
 
 
   - BalancedRandomForestClassifier_Ensemble Model
@@ -44,7 +44,7 @@ Our six models produced the following results:
    * Precision Score: 		high_risk      0.03    low_risk       1.00    
    * Recall Score:     		high_risk      0.70    low_risk       0.87
 
-![IMG_5](#)
+![image](https://user-images.githubusercontent.com/86337035/160262749-e77e913f-bd80-4db4-a92a-c6c39f2efeac.png)
 
 
 - EasyEnsembleClassifier_Ensemble Model
@@ -52,7 +52,7 @@ Our six models produced the following results:
    * Precision Score: 		high_risk      0.09    low_risk       1.00    
    * Recall Score:    		high_risk      0.92    low_risk       0.94
 				
-![IMG_6](#)
+![image](https://user-images.githubusercontent.com/86337035/160262756-9c0a0dc6-4f13-4abf-93a0-a937ff09a55f.png)
 
 
 ### Summary
